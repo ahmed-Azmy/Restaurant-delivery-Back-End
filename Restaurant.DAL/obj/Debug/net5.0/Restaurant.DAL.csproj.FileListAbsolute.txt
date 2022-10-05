@@ -1,0 +1,12 @@
+C:\Users\laptop world\Desktop\Soft Zone\Restaurant delivery online\Restaurant.DAL\bin\Debug\net5.0\Restaurant.DAL.deps.json
+C:\Users\laptop world\Desktop\Soft Zone\Restaurant delivery online\Restaurant.DAL\bin\Debug\net5.0\Restaurant.DAL.dll
+C:\Users\laptop world\Desktop\Soft Zone\Restaurant delivery online\Restaurant.DAL\bin\Debug\net5.0\Restaurant.DAL.pdb
+C:\Users\laptop world\Desktop\Soft Zone\Restaurant delivery online\Restaurant.DAL\obj\Debug\net5.0\Restaurant.DAL.csproj.AssemblyReference.cache
+C:\Users\laptop world\Desktop\Soft Zone\Restaurant delivery online\Restaurant.DAL\obj\Debug\net5.0\Restaurant.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laptop world\Desktop\Soft Zone\Restaurant delivery online\Restaurant.DAL\obj\Debug\net5.0\Restaurant.DAL.AssemblyInfoInputs.cache
+C:\Users\laptop world\Desktop\Soft Zone\Restaurant delivery online\Restaurant.DAL\obj\Debug\net5.0\Restaurant.DAL.AssemblyInfo.cs
+C:\Users\laptop world\Desktop\Soft Zone\Restaurant delivery online\Restaurant.DAL\obj\Debug\net5.0\Restaurant.DAL.csproj.CoreCompileInputs.cache
+C:\Users\laptop world\Desktop\Soft Zone\Restaurant delivery online\Restaurant.DAL\obj\Debug\net5.0\Restaurant.DAL.dll
+C:\Users\laptop world\Desktop\Soft Zone\Restaurant delivery online\Restaurant.DAL\obj\Debug\net5.0\refint\Restaurant.DAL.dll
+C:\Users\laptop world\Desktop\Soft Zone\Restaurant delivery online\Restaurant.DAL\obj\Debug\net5.0\Restaurant.DAL.pdb
+C:\Users\laptop world\Desktop\Soft Zone\Restaurant delivery online\Restaurant.DAL\obj\Debug\net5.0\ref\Restaurant.DAL.dll
