@@ -31,13 +31,15 @@ namespace Restaurant.APIs.Controllers
         public async Task<ActionResult<UserDto>> Login(LoginDto loginDto)
         {
             var user = await userManager.FindByEmailAsync(loginDto.Email);
-            if (user == null) return Unauthorized();
+            if (user == null) return Unauthorized("This Email is not Exist");
             var result = await signInManager.CheckPasswordSignInAsync(user, loginDto.Password, false);
-            if (!result.Succeeded) return Unauthorized();
+            if (!result.Succeeded) return Unauthorized("Make Sure you enter correct Password");
             return Ok(new UserDto()
             {
                 UserName = user.UserName,
                 Email = user.Email,
+                PhoneNumber = user.PhoneNumber,
+                Address = user.Address,
                 Token = await tokenService.CreateToken(user, userManager)
             });
         }
@@ -46,7 +48,7 @@ namespace Restaurant.APIs.Controllers
         public async Task<ActionResult<UserDto>> Register(RegisterDto registerDto)
         {
             if (CheckEmailExist(registerDto.Email).Result.Value)
-                return BadRequest();
+                return BadRequest(error:"This Email is Olready Exist.");
             var user = new AppUser()
             {
                 UserName = registerDto.UserName,
@@ -60,6 +62,8 @@ namespace Restaurant.APIs.Controllers
             {
                 UserName = user.UserName,
                 Email = user.Email,
+                PhoneNumber = user.PhoneNumber,
+                Address = user.Address,
                 Token = await tokenService.CreateToken(user, userManager)
             });
         }
@@ -75,6 +79,8 @@ namespace Restaurant.APIs.Controllers
             {
                 UserName = user.UserName,
                 Email = user.Email,
+                PhoneNumber = user.PhoneNumber,
+                Address = user.Address,
                 Token = await tokenService.CreateToken(user, userManager)
             });
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jzMwFgOMrTeCOyj560oW3XjZvzbF/391biYBR+HRY5dQWrVw4vLOpf26oCXcqP8FZv4jLsOXQQ/iRaKetf1u5w==",
+  "dgSpecHash": "rG+U3HLk/iYvGrdLLNkTWmrR8dDWtg2Ff5IMzMf22gFT0qLzYdtXoeV2tZV0YOaIalMWC+5sm/bi/BQo14pPVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\laptop world\\Desktop\\Soft Zone\\Restaurant delivery online\\Restaurant.APIs\\Restaurant.APIs.csproj",
+  "projectFilePath": "C:\\Users\\laptop world\\Desktop\\Restaurant\\Restaurant delivery online\\Restaurant-delivery-Back-End\\Restaurant.APIs\\Restaurant.APIs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\laptop world\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\laptop world\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

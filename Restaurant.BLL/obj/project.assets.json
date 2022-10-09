@@ -6049,11 +6049,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laptop world\\Desktop\\Soft Zone\\Restaurant delivery online\\Restaurant.BLL\\Restaurant.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\laptop world\\Desktop\\Restaurant\\Restaurant delivery online\\Restaurant-delivery-Back-End\\Restaurant.BLL\\Restaurant.BLL.csproj",
       "projectName": "Restaurant.BLL",
-      "projectPath": "C:\\Users\\laptop world\\Desktop\\Soft Zone\\Restaurant delivery online\\Restaurant.BLL\\Restaurant.BLL.csproj",
+      "projectPath": "C:\\Users\\laptop world\\Desktop\\Restaurant\\Restaurant delivery online\\Restaurant-delivery-Back-End\\Restaurant.BLL\\Restaurant.BLL.csproj",
       "packagesPath": "C:\\Users\\laptop world\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laptop world\\Desktop\\Soft Zone\\Restaurant delivery online\\Restaurant.BLL\\obj\\",
+      "outputPath": "C:\\Users\\laptop world\\Desktop\\Restaurant\\Restaurant delivery online\\Restaurant-delivery-Back-End\\Restaurant.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\laptop world\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6070,8 +6070,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\laptop world\\Desktop\\Soft Zone\\Restaurant delivery online\\Restaurant.DAL\\Restaurant.DAL.csproj": {
-              "projectPath": "C:\\Users\\laptop world\\Desktop\\Soft Zone\\Restaurant delivery online\\Restaurant.DAL\\Restaurant.DAL.csproj"
+            "C:\\Users\\laptop world\\Desktop\\Restaurant\\Restaurant delivery online\\Restaurant-delivery-Back-End\\Restaurant.DAL\\Restaurant.DAL.csproj": {
+              "projectPath": "C:\\Users\\laptop world\\Desktop\\Restaurant\\Restaurant delivery online\\Restaurant-delivery-Back-End\\Restaurant.DAL\\Restaurant.DAL.csproj"
             }
           }
         }

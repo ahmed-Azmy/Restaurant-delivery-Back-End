@@ -13,3 +13,18 @@ C:\Users\laptop world\Desktop\Soft Zone\Restaurant delivery online\Restaurant.BL
 C:\Users\laptop world\Desktop\Soft Zone\Restaurant delivery online\Restaurant.BLL\obj\Debug\net5.0\refint\Restaurant.BLL.dll
 C:\Users\laptop world\Desktop\Soft Zone\Restaurant delivery online\Restaurant.BLL\obj\Debug\net5.0\Restaurant.BLL.pdb
 C:\Users\laptop world\Desktop\Soft Zone\Restaurant delivery online\Restaurant.BLL\obj\Debug\net5.0\ref\Restaurant.BLL.dll
+C:\Users\laptop world\Desktop\Restaurant\Restaurant delivery online\Restaurant-delivery-Back-End\Restaurant.BLL\bin\Debug\net5.0\Restaurant.BLL.deps.json
+C:\Users\laptop world\Desktop\Restaurant\Restaurant delivery online\Restaurant-delivery-Back-End\Restaurant.BLL\bin\Debug\net5.0\Restaurant.BLL.dll
+C:\Users\laptop world\Desktop\Restaurant\Restaurant delivery online\Restaurant-delivery-Back-End\Restaurant.BLL\bin\Debug\net5.0\Restaurant.BLL.pdb
+C:\Users\laptop world\Desktop\Restaurant\Restaurant delivery online\Restaurant-delivery-Back-End\Restaurant.BLL\bin\Debug\net5.0\Restaurant.DAL.dll
+C:\Users\laptop world\Desktop\Restaurant\Restaurant delivery online\Restaurant-delivery-Back-End\Restaurant.BLL\bin\Debug\net5.0\Restaurant.DAL.pdb
+C:\Users\laptop world\Desktop\Restaurant\Restaurant delivery online\Restaurant-delivery-Back-End\Restaurant.BLL\obj\Debug\net5.0\Restaurant.BLL.csproj.AssemblyReference.cache
+C:\Users\laptop world\Desktop\Restaurant\Restaurant delivery online\Restaurant-delivery-Back-End\Restaurant.BLL\obj\Debug\net5.0\Restaurant.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laptop world\Desktop\Restaurant\Restaurant delivery online\Restaurant-delivery-Back-End\Restaurant.BLL\obj\Debug\net5.0\Restaurant.BLL.AssemblyInfoInputs.cache
+C:\Users\laptop world\Desktop\Restaurant\Restaurant delivery online\Restaurant-delivery-Back-End\Restaurant.BLL\obj\Debug\net5.0\Restaurant.BLL.AssemblyInfo.cs
+C:\Users\laptop world\Desktop\Restaurant\Restaurant delivery online\Restaurant-delivery-Back-End\Restaurant.BLL\obj\Debug\net5.0\Restaurant.BLL.csproj.CoreCompileInputs.cache
+C:\Users\laptop world\Desktop\Restaurant\Restaurant delivery online\Restaurant-delivery-Back-End\Restaurant.BLL\obj\Debug\net5.0\Restaurant.BLL.csproj.CopyComplete
+C:\Users\laptop world\Desktop\Restaurant\Restaurant delivery online\Restaurant-delivery-Back-End\Restaurant.BLL\obj\Debug\net5.0\Restaurant.BLL.dll
+C:\Users\laptop world\Desktop\Restaurant\Restaurant delivery online\Restaurant-delivery-Back-End\Restaurant.BLL\obj\Debug\net5.0\refint\Restaurant.BLL.dll
+C:\Users\laptop world\Desktop\Restaurant\Restaurant delivery online\Restaurant-delivery-Back-End\Restaurant.BLL\obj\Debug\net5.0\Restaurant.BLL.pdb
+C:\Users\laptop world\Desktop\Restaurant\Restaurant delivery online\Restaurant-delivery-Back-End\Restaurant.BLL\obj\Debug\net5.0\ref\Restaurant.BLL.dll

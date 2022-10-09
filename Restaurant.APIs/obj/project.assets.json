@@ -6026,11 +6026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laptop world\\Desktop\\Soft Zone\\Restaurant delivery online\\Restaurant.APIs\\Restaurant.APIs.csproj",
+      "projectUniqueName": "C:\\Users\\laptop world\\Desktop\\Restaurant\\Restaurant delivery online\\Restaurant-delivery-Back-End\\Restaurant.APIs\\Restaurant.APIs.csproj",
       "projectName": "Restaurant.APIs",
-      "projectPath": "C:\\Users\\laptop world\\Desktop\\Soft Zone\\Restaurant delivery online\\Restaurant.APIs\\Restaurant.APIs.csproj",
+      "projectPath": "C:\\Users\\laptop world\\Desktop\\Restaurant\\Restaurant delivery online\\Restaurant-delivery-Back-End\\Restaurant.APIs\\Restaurant.APIs.csproj",
       "packagesPath": "C:\\Users\\laptop world\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laptop world\\Desktop\\Soft Zone\\Restaurant delivery online\\Restaurant.APIs\\obj\\",
+      "outputPath": "C:\\Users\\laptop world\\Desktop\\Restaurant\\Restaurant delivery online\\Restaurant-delivery-Back-End\\Restaurant.APIs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\laptop world\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6047,8 +6047,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\laptop world\\Desktop\\Soft Zone\\Restaurant delivery online\\Restaurant.BLL\\Restaurant.BLL.csproj": {
-              "projectPath": "C:\\Users\\laptop world\\Desktop\\Soft Zone\\Restaurant delivery online\\Restaurant.BLL\\Restaurant.BLL.csproj"
+            "C:\\Users\\laptop world\\Desktop\\Restaurant\\Restaurant delivery online\\Restaurant-delivery-Back-End\\Restaurant.BLL\\Restaurant.BLL.csproj": {
+              "projectPath": "C:\\Users\\laptop world\\Desktop\\Restaurant\\Restaurant delivery online\\Restaurant-delivery-Back-End\\Restaurant.BLL\\Restaurant.BLL.csproj"
             }
           }
         }
